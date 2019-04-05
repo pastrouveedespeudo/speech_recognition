@@ -1,0 +1,33 @@
+import speech_recognition as sr
+
+exécutant = ""
+
+gardien = ""
+
+infirmier = ""
+
+aide_domicile = ""
+
+mécanicien = ""
+
+homme_action = ""
+
+acteur = ""
+
+artiste = ""
+
+directeur = ""
+
+scientifique = ""
+
+visionnaire = ""
+
+penseur = ""
+
+donateur = ""
+
+protecteur = ""
+
+charismatique = ""
+
+idéaliste = ""
